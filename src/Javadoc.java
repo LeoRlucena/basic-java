@@ -5,7 +5,7 @@
  * @version 1.0
  * @since 1.0
  */
-
+@Deprecated(since = "2.0", forRemoval = true)
 public class Javadoc {
 
     /**
